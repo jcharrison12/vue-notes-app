@@ -7,9 +7,9 @@
 
 <script>
 import Toolbar from "./components/Toolbar.vue";
-import NoteContainer from "./components/NoteContainer.vue"
+import NoteContainer from "./components/NoteContainer.vue";
 export default {
-  components: { Toolbar, NoteContainer },
+  components: { Toolbar, NoteContainer, },
   name: "app",
 };
 </script>
